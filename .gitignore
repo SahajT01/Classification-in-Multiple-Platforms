@@ -1,0 +1,5 @@
+/venv/
+*.iml
+*.xml
+.DS_Store
+.idea
